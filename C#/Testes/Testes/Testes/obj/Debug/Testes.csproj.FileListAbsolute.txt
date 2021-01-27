@@ -1,0 +1,14 @@
+C:\Users\fcolaco\Documents\Cursos\C#\Testes\Testes\Testes\bin\Debug\Testes.exe.config
+C:\Users\fcolaco\Documents\Cursos\C#\Testes\Testes\Testes\bin\Debug\Testes.exe
+C:\Users\fcolaco\Documents\Cursos\C#\Testes\Testes\Testes\bin\Debug\Testes.pdb
+C:\Users\fcolaco\Documents\Cursos\C#\Testes\Testes\Testes\obj\Debug\Testes.csprojAssemblyReference.cache
+C:\Users\fcolaco\Documents\Cursos\C#\Testes\Testes\Testes\obj\Debug\Testes.csproj.CoreCompileInputs.cache
+C:\Users\fcolaco\Documents\Cursos\C#\Testes\Testes\Testes\obj\Debug\Testes.exe
+C:\Users\fcolaco\Documents\Cursos\C#\Testes\Testes\Testes\obj\Debug\Testes.pdb
+D:\Users\fabio\OneDrive\Cursos\C#\Testes\Testes\Testes\bin\Debug\Testes.exe.config
+D:\Users\fabio\OneDrive\Cursos\C#\Testes\Testes\Testes\bin\Debug\Testes.exe
+D:\Users\fabio\OneDrive\Cursos\C#\Testes\Testes\Testes\bin\Debug\Testes.pdb
+D:\Users\fabio\OneDrive\Cursos\C#\Testes\Testes\Testes\obj\Debug\Testes.csprojAssemblyReference.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Testes\Testes\Testes\obj\Debug\Testes.csproj.CoreCompileInputs.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Testes\Testes\Testes\obj\Debug\Testes.exe
+D:\Users\fabio\OneDrive\Cursos\C#\Testes\Testes\Testes\obj\Debug\Testes.pdb

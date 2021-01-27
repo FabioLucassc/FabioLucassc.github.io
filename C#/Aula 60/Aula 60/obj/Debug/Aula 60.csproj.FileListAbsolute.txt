@@ -1,0 +1,10 @@
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\bin\Debug\Aula 60.exe.config
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\bin\Debug\Aula 60.exe
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\bin\Debug\Aula 60.pdb
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\obj\Debug\Aula 60.csprojAssemblyReference.cache
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\obj\Debug\Aula_60.Properties.Resources.resources
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\obj\Debug\Aula 60.csproj.GenerateResource.cache
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\obj\Debug\Aula 60.csproj.CoreCompileInputs.cache
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\obj\Debug\Aula 60.exe
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\obj\Debug\Aula 60.pdb
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 60\Aula 60\obj\Debug\Aula_60.FormPrincipal.resources

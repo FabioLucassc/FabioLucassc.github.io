@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Aula 2</title>
+</head>
+
+<body>
+
+    <div id="app">
+        
+        <input type="text" name="nome"/>
+        <button class="botao">Adicionar</button>
+
+    </div>
+
+    <script>
+    
+        var inputElement = document.querySelector('input[name=nome]');
+        var bntElement = document.querySelector('button.botao');
+        
+
+        bntElement.onclick = function(){
+
+            var text = inputElement.value;
+            alert (text);
+        }
+
+
+    </script>
+
+</body>
+
+</html>

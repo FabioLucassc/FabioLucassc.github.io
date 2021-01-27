@@ -1,0 +1,7 @@
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 06\Aula 06\Aula 06\bin\Debug\Aula 06.exe.config
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 06\Aula 06\Aula 06\bin\Debug\Aula 06.exe
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 06\Aula 06\Aula 06\bin\Debug\Aula 06.pdb
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 06\Aula 06\Aula 06\obj\Debug\Aula 06.csprojAssemblyReference.cache
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 06\Aula 06\Aula 06\obj\Debug\Aula 06.csproj.CoreCompileInputs.cache
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 06\Aula 06\Aula 06\obj\Debug\Aula 06.exe
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 06\Aula 06\Aula 06\obj\Debug\Aula 06.pdb

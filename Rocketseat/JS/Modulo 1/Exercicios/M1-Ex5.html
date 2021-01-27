@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Exercicio 5</title>
+</head>
+
+<body>
+
+    <script>
+
+        var usuarios = [
+            {
+                nome: "Diego",
+                habilidades: ["Javascript", "ReactJS", "Redux"]
+            },
+            {
+                nome: "Gabriel",
+                habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
+            }
+        ];
+
+        function buscaUser(array) {
+            for (var value of array) {
+                console.log('O', value.nome, 'possui as habilidades: ', value.habilidades.join(', '));
+            }
+        }
+        buscaUser(usuarios);
+
+    </script>
+
+</body>
+
+</html>

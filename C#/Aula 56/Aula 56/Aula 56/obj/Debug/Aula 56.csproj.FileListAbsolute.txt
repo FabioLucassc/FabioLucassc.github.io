@@ -1,0 +1,7 @@
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 56\Aula 56\Aula 56\bin\Debug\Aula 56.exe.config
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 56\Aula 56\Aula 56\bin\Debug\Aula 56.exe
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 56\Aula 56\Aula 56\bin\Debug\Aula 56.pdb
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 56\Aula 56\Aula 56\obj\Debug\Aula 56.csprojAssemblyReference.cache
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 56\Aula 56\Aula 56\obj\Debug\Aula 56.csproj.CoreCompileInputs.cache
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 56\Aula 56\Aula 56\obj\Debug\Aula 56.exe
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 56\Aula 56\Aula 56\obj\Debug\Aula 56.pdb

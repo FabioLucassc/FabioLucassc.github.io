@@ -1,0 +1,7 @@
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 33\Aula 33\obj\Debug\Aula 33.csprojAssemblyReference.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 33\Aula 33\obj\Debug\Aula 33.csproj.CoreCompileInputs.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 33\Aula 33\bin\Debug\Aula 33.exe.config
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 33\Aula 33\bin\Debug\Aula 33.exe
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 33\Aula 33\bin\Debug\Aula 33.pdb
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 33\Aula 33\obj\Debug\Aula 33.exe
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 33\Aula 33\obj\Debug\Aula 33.pdb

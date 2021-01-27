@@ -1,0 +1,13 @@
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\bin\Debug\netcoreapp3.1\Aula 04.exe
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\bin\Debug\netcoreapp3.1\Aula 04.deps.json
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\bin\Debug\netcoreapp3.1\Aula 04.runtimeconfig.json
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\bin\Debug\netcoreapp3.1\Aula 04.runtimeconfig.dev.json
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\bin\Debug\netcoreapp3.1\Aula 04.dll
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\bin\Debug\netcoreapp3.1\Aula 04.pdb
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\obj\Debug\netcoreapp3.1\Aula 04.csprojAssemblyReference.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\obj\Debug\netcoreapp3.1\Aula 04.AssemblyInfoInputs.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\obj\Debug\netcoreapp3.1\Aula 04.AssemblyInfo.cs
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\obj\Debug\netcoreapp3.1\Aula 04.csproj.CoreCompileInputs.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\obj\Debug\netcoreapp3.1\Aula 04.dll
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\obj\Debug\netcoreapp3.1\Aula 04.pdb
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 04\Aula 04\Aula 04\obj\Debug\netcoreapp3.1\Aula 04.genruntimeconfig.cache

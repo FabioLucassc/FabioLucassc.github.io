@@ -1,0 +1,6 @@
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 42\Aula 42\Aula 42\obj\Debug\Aula 42.csproj.CoreCompileInputs.cache
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 42\Aula 42\Aula 42\bin\Debug\Aula 42.exe.config
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 42\Aula 42\Aula 42\bin\Debug\Aula 42.exe
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 42\Aula 42\Aula 42\bin\Debug\Aula 42.pdb
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 42\Aula 42\Aula 42\obj\Debug\Aula 42.exe
+C:\Users\fcolaco\OneDrive\Cursos\C#\Aula 42\Aula 42\Aula 42\obj\Debug\Aula 42.pdb

@@ -1,0 +1,16 @@
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\bin\Debug\net5.0\Aula 03.exe
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\bin\Debug\net5.0\Aula 03.deps.json
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\bin\Debug\net5.0\Aula 03.runtimeconfig.json
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\bin\Debug\net5.0\Aula 03.runtimeconfig.dev.json
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\bin\Debug\net5.0\Aula 03.dll
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\bin\Debug\net5.0\ref\Aula 03.dll
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\bin\Debug\net5.0\Aula 03.pdb
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\obj\Debug\net5.0\Aula 03.csprojAssemblyReference.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\obj\Debug\net5.0\Aula 03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\obj\Debug\net5.0\Aula 03.AssemblyInfoInputs.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\obj\Debug\net5.0\Aula 03.AssemblyInfo.cs
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\obj\Debug\net5.0\Aula 03.csproj.CoreCompileInputs.cache
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\obj\Debug\net5.0\Aula 03.dll
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\obj\Debug\net5.0\ref\Aula 03.dll
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\obj\Debug\net5.0\Aula 03.pdb
+D:\Users\fabio\OneDrive\Cursos\C#\Aula 03\obj\Debug\net5.0\Aula 03.genruntimeconfig.cache
