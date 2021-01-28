@@ -113,7 +113,7 @@ nav {
 
 #nome h1 {
 	font-size: 80px;
-	color: #ffffff;
+	color: white;
 	text-align: center;
 }
 
@@ -207,61 +207,3 @@ nav {
 .itens-menu:hover {
 	color: #afb5bb;
 }
-
-/*********************************************************************************/
-
-/* Welcome                                                                       */
-
-/*********************************************************************************/
-
-/* #welcome {
-	position: relative;
-	padding: 7em 0em 7em 0em;
-	background: #111111 url(images/header-bg.jpg) no-repeat center;
-	background-size: cover;
-	text-align: center;
-}
-
-#welcome .container {
-	width: 1000px;
-	padding: 0px 100px;
-	color: rgba(255, 255, 255, 0.8);
-}
-
-#welcome a {
-	color: rgba(255, 255, 255, 1);
-} */
-
-/*********************************************************************************/
-
-/* Extra                                                                         */
-
-/*********************************************************************************/
-
-#three-column {
-	text-align: center;
-	color: rgba(0, 0, 0, 0.6);
-}
-
-#three-column .fa {
-	display: block;
-	padding: 1em 0em;
-	color: rgba(0, 0, 0, 1);
-	font-size: 2em;
-}
-
-#three-column .title h2 {
-	font-weight: bold;
-	color: rgba(0, 0, 0, 0.8);
-}
-
-#three-column .title .byline {
-	text-align: center;
-	color: rgba(0, 0, 0, .5);
-}
-
-/*********************************************************************************/
-
-/* Image Style                                                                   */
-
-/*********************************************************************************/
