@@ -58,6 +58,7 @@ ul {
 body {
     background: #010409;
     font-family: 'Work Sans', sans-serif;
+    color: white;
 }
 
 nav {
@@ -81,6 +82,10 @@ main{
 #logo {
     width: 40px;
     align-items: center;
+}
+#imgIni{
+
+    style:left;
 }
 
 .itens-menu {
