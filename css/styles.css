@@ -40,12 +40,6 @@ a {
 	text-decoration: none;
 }
 
-/* header {
-	width: 100%;
-	background: #fff;
-	z-index: 1000;
-} */
-
 ul {
 	display: flex;
 	align-items: center;
@@ -65,11 +59,10 @@ body {
 }
 
 nav {
-	height: 60px;
+	height: 0px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	/* box-shadow: rgb(34, 69, 116) 0px 0px 1px; */
 	text-shadow: 1px 1px 1px #000000;
 	font-family: 'Work Sans', sans-serif;
 	padding: 10px;
@@ -111,7 +104,7 @@ nav {
 }
 
 #nome h1 {
-	font-size: 80px;
+	font-size: 65px;
 	color: white;
 	text-align: center;
 }
@@ -121,6 +114,21 @@ nav {
 /* Menu                                                                          */
 
 /*********************************************************************************/
+
+#logoMenu {
+	width: 40px;
+	align-items: center;
+}
+
+.itens-menu {
+	width: auto;
+	margin-left: 10px;
+	color: white;
+}
+
+.itens-menu:hover {
+	color: #afb5bb;
+}
 
 #menu {
 	position: static;
@@ -149,9 +157,9 @@ nav {
 	color: rgba(255, 255, 255, 0.80);
 }
 
-#menu li:hover a, #menu li.active a, #menu li.active span {
-	
-}
+/* #menu li:hover a, #menu li.active a, #menu li.active span {
+
+} */
 
 #menu .active a {
 	border: 2px solid white;
@@ -159,8 +167,6 @@ nav {
 	color: white;
 	
 }
-
-#menu .icon {}
 
 /*********************************************************************************/
 
@@ -190,21 +196,3 @@ nav {
 	font-size: 1em;
 }
 
-#logo2 {
-	width: 40px;
-	align-items: center;
-}
-
-#imgIni {
-	style: left;
-}
-
-.itens-menu {
-	width: auto;
-	margin-left: 30px;
-	color: white;
-}
-
-.itens-menu:hover {
-	color: #afb5bb;
-}
