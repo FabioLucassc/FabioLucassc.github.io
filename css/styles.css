@@ -39,6 +39,7 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
 a {
     text-decoration: none;
 }
@@ -49,8 +50,6 @@ header {
     /*z-index: 1000;*/
 }
 
-
-
 ul {
     display: flex;
     align-items: center;
@@ -60,29 +59,25 @@ body {
     background: #010409;
 }
 
-
-nav{
-	height: 50px;
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-    box-shadow:rgb(77, 77, 77) 0px 1px 1px;
+nav {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: rgb(77, 77, 77) 0px 1px 1px;
     background-color: #161b22;
-   
 }
 
-#logo{
-	width: 40px;
+#logo {
+    width: 40px;
 }
-.itens-menu{
-	width: auto;
-	margin-left: 30px;
+
+.itens-menu {
+    width: auto;
+    margin-left: 30px;
     color: white;
-
-
 }
-.itens-menu:hover{
-	color: #afb5bb;
 
-
+.itens-menu:hover {
+    color: #afb5bb;
 }
