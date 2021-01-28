@@ -73,13 +73,10 @@ nav {
     line-height: 1.5;
 }
 
-/* @media(max-width: 520px){
-
-.itens-menu {
-    display: block;
+main{
+    margin-left: 10%;
+    margin-right: 10%;
 }
-
-} */
 
 #logo {
     width: 40px;
@@ -96,7 +93,3 @@ nav {
     color: #afb5bb;
 }
 
-.resume {
-    margin-left: 10%;
-    
-}
