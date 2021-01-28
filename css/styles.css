@@ -18,9 +18,9 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 	display: block;
 }
 
-body {
-	/* line-height: 1; */
-}
+/* body {
+	 line-height: 1; 
+} */
 
 ol, ul {
 	list-style: none;
@@ -75,6 +75,7 @@ nav {
 	justify-content: space-between;
 	box-shadow: rgb(77, 77, 77) 0px 1px 1px;
 	background-color: #161b22;
+	/* background-color: #161b22; */
 	font-family: 'Work Sans', sans-serif;
 	/* padding: 10px; */
 	font-size: 16px;
@@ -110,25 +111,17 @@ nav {
 	position: static;
 	top: 8em;
 	text-align: center;
+	font-family: 'Work Sans', sans-serif;
+	text-shadow: 2px 2px 2px #000000
 
-
-	-webkit-text-stroke-width: 5px;
-	-webkit-text-stroke-color: rgb(0, 0, 0)
-	/* font-size: 3em; */
-	/* color: #fffdd9; */
-	/* left: 0; */
 }
 
 #nome h1 {
-	font-size: 4.6em;
-	color: #79C255;
+	font-size: 80px;
+	color: #ffffff;
 	text-align: center;
 }
 
-#nome a {
-	text-decoration: none;
-	color: rgba(255, 255, 255, 1);
-}
 
 /*********************************************************************************/
 
@@ -164,15 +157,6 @@ nav {
 	color: rgba(255, 255, 255, 0.80);
 }
 
-#menu li:hover a, #menu li.active a, #menu li.active span {}
-
-#menu .active a {
-	border: 2px solid rgba(255, 255, 255, 1);
-	border-radius: 6px;
-	color: rgba(255, 255, 255, 1);
-}
-
-#menu .icon {}
 
 /*********************************************************************************/
 
@@ -227,7 +211,7 @@ nav {
 
 /*********************************************************************************/
 
-#welcome {
+/* #welcome {
 	position: relative;
 	padding: 7em 0em 7em 0em;
 	background: #111111 url(images/header-bg.jpg) no-repeat center;
@@ -243,7 +227,7 @@ nav {
 
 #welcome a {
 	color: rgba(255, 255, 255, 1);
-}
+} */
 
 /*********************************************************************************/
 
