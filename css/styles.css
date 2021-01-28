@@ -40,11 +40,11 @@ a {
 	text-decoration: none;
 }
 
-header {
+/* header {
 	width: 100%;
 	background: #fff;
-	/*z-index: 1000;*/
-}
+	z-index: 1000;
+} */
 
 ul {
 	display: flex;
@@ -69,13 +69,12 @@ nav {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	box-shadow: rgb(77, 77, 77) 0px 1px 1px;
-	background-color: #161b22;
-	/* background-color: #161b22; */
+	/* box-shadow: rgb(34, 69, 116) 0px 0px 1px; */
+	text-shadow: 1px 1px 1px #000000;
 	font-family: 'Work Sans', sans-serif;
-	/* padding: 10px; */
-	font-size: 16px;
-	line-height: 1.5;
+	padding: 10px;
+	font-size: 22px;
+
 }
 
 /*********************************************************************************/
@@ -142,21 +141,23 @@ nav {
 }
 
 #menu li a, #menu li span {
-	/* padding: 1em 1.5em; */
 	padding: 1em 1.5em;
 	letter-spacing: 3px;
 	text-decoration: none;
 	text-transform: uppercase;
-	font-size: 0.8em;
+	font-size: 15px;
 	color: rgba(255, 255, 255, 0.80);
 }
 
-#menu li:hover a, #menu li.active a, #menu li.active span {}
+#menu li:hover a, #menu li.active a, #menu li.active span {
+	
+}
 
 #menu .active a {
-	border: 2px solid rgba(255, 255, 255, 1);
+	border: 2px solid white;
 	border-radius: 6px;
-	color: rgba(255, 255, 255, 1);
+	color: white;
+	
 }
 
 #menu .icon {}
