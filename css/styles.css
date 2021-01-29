@@ -41,11 +41,15 @@ a {
 }
 
 li {
-
 	display: inline;
 	margin: 20px;
-
 }
+
+/* ul {
+	display: flex;
+	align-items: center;
+} */
+
 body {
 	/* background: #010409;
 	font-family: 'Work Sans', sans-serif;
@@ -69,7 +73,6 @@ nav {
 	padding: 10px;
 	font-size: 22px;
 }
-
 
 /*********************************************************************************/
 
@@ -105,7 +108,7 @@ nav {
 }
 
 #nome h1 {
-	font-size: 65px;
+	font-size: 3.5em;
 	color: white;
 	text-align: center;
 }
@@ -117,13 +120,13 @@ nav {
 /*********************************************************************************/
 
 #logoMenu {
-	width: 40px;
+	width: 2em;
 	align-items: center;
 }
 
 .itens-menu {
 	width: auto;
-	margin-left: 10px;
+	margin-left: 0.3em;
 	color: white;
 }
 
@@ -154,8 +157,17 @@ nav {
 	letter-spacing: 3px;
 	text-decoration: none;
 	text-transform: uppercase;
-	font-size: 15px;
+	font-size: 0.7em;
 	color: rgba(255, 255, 255, 0.80);
+}
+
+#menuEsquerdo ul {
+	display: flex;
+	align-items: center;
+}
+
+#menuEsquerdo .itens-menu {
+	margin: 1em;
 }
 
 /* #menu li:hover a, #menu li.active a, #menu li.active span {
