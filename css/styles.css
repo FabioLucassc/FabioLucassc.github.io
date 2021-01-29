@@ -41,9 +41,6 @@ a {
 }
 
 body {
-	/* background: #010409;
-	font-family: 'Work Sans', sans-serif;
-	color: white; */
 	margin: 0px;
 	padding: 0px;
 	background: #111111;
@@ -67,6 +64,12 @@ nav {
 @font-face {
 	font-family: Qanelas;
 	src: url(../fonts/QanelasSoftDEMO-UltraLight.otf)
+}
+
+.container {
+	/* overflow: hidden; */
+	margin: 0em auto;
+	width: 100%;
 }
 
 /*********************************************************************************/
@@ -167,10 +170,6 @@ nav {
 	text-align: center;
 }
 
-/* #menu li:hover a, #menu li.active a, #menu li.active span {
-
-} */
-
 #menu .active a {
 	border: 2px solid white;
 	border-radius: 6px;
@@ -230,7 +229,7 @@ nav {
 
 /*********************************************************************************/
 
-.button {
+.botoes {
 	display: inline-block;
 	padding: 1em 2em 1em 2em;
 	letter-spacing: 0.10em;
@@ -244,13 +243,13 @@ nav {
 	color: #FFF;
 }
 
-.button-alt {
+.botoesMeio {
 	padding: 1em 2em;
 	border-color: rgba(0, 0, 0, .8);
 	color: rgba(0, 0, 0, .8);
 }
 
-#botoes li {
+#botoesIni li {
 	display: inline;
 	margin: 20px;
 }
@@ -262,58 +261,75 @@ nav {
 /*********************************************************************************/
 
 #secundario {
-	position: relative;
+	position: absolute;
 	padding: 5em 0em 7em 0em;
 	background: #FFF;
+	margin: 0;
+	align-items: center;
 }
 
 /*********************************************************************************/
 
-	/* 4-column                                                                      */
+/* 4-column                                                                      */
 
-	/*********************************************************************************/
+/*********************************************************************************/
 
-	.box1, .box2, .box3, .box4 {
-		
-		width: 235px;
-	}
+/* .box1, .box2, .box3, .box4 {
+	width: 235px;
+}
 
-	/* .box1, .box2, .box3, {
+/* .box1, .box2, .box3, {
 		float: left;
 		margin-right: 20px;
-	} */
+	} 
 
-	.box4 {
-		float: right;
-	}
+.box4 {
+	float: right;
+} */
 
-	/*********************************************************************************/
+/*********************************************************************************/
 
-	/* 3-column                                                                      */
+/* Coluna Meio                                                                     */
 
-	/*********************************************************************************/
+/*********************************************************************************/
 
-	.boxA, .boxB, .boxC {
-		display: inline;
-		width: auto;
-		/* align-items: center; */
-	}
+/* .boxA, .boxB, .boxC {
+	float: left;
+	padding: 1.5%;
+}
 
-	.boxA .boxB .boxC {
-		display: inline;
-		float: left;
-		margin-right: 20px;
-	}
+.boxA .boxB .boxC {
+	display: inline;
+	float: left;
+	margin-right: 20px;
+}
 
-	/* .boxC {
-		float: right;
-	} */
+.boxC {
+	float: right;
+} */
 
-	/*********************************************************************************/
+.boxA, .boxB, .boxC {
+	display: inline;
+	align-items: center;
+	margin-left: auto;
+	width: 384px;
+}
 
-	/* 2-column                                                                      */
+.boxA, .boxB {
+	float: left;
+	margin-right: 20px;
+}
 
-	/*********************************************************************************/
+.boxC {
+	float: left;
+}
+
+/*********************************************************************************/
+
+/* 2-column                                                                      */
+
+/*********************************************************************************/
+
 /* 
 	.tbox1, .tbox2 {
 		width: 575px;
@@ -327,30 +343,30 @@ nav {
 		float: right;
 	} */
 
-	/*********************************************************************************/
+/*********************************************************************************/
 
-	/* Extra                                                                         */
+/* Colunas Meio                                                                         */
 
-	/*********************************************************************************/
+/*********************************************************************************/
 
-	#three-column {
-		text-align: center;
-		color: rgba(0, 0, 0, 0.6);
-	}
+#colunasMeio {
+	text-align: center;
+	color: rgba(0, 0, 0, 0.6);
+}
 
-	#three-column .fa {
-		display: block;
-		padding: 1em 0em;
-		color: rgba(0, 0, 0, 1);
-		font-size: 2em;
-	}
+#colunasMeio .fa {
+	display: block;
+	padding: 1em 0em;
+	color: rgba(0, 0, 0, 1);
+	font-size: 2em;
+}
 
-	#three-column .title h2 {
-		font-weight: bold;
-		color: rgba(0, 0, 0, 0.8);
-	}
+#colunasMeio .title h2 {
+	font-weight: bold;
+	color: rgba(0, 0, 0, 0.8);
+}
 
-	#three-column .title .byline {
-		text-align: center;
-		color: rgba(0, 0, 0, .5);
-	}
+#colunasMeio .title .byline {
+	text-align: center;
+	color: rgba(0, 0, 0, .5);
+}
