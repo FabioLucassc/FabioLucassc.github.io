@@ -173,6 +173,7 @@ nav {
 #menuEsquerdo .itens-menu {
 	margin: 8%;
 	font-family: Qanelas;
+	text-align: center;
 }
 
 /* #menu li:hover a, #menu li.active a, #menu li.active span {
