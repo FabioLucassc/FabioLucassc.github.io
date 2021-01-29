@@ -40,10 +40,10 @@ a {
 	text-decoration: none;
 }
 
-li {
+/* li {
 	display: inline;
 	margin: 20px;
-}
+} */
 
 /* ul {
 	display: flex;
@@ -72,6 +72,10 @@ nav {
 	font-family: 'Work Sans', sans-serif;
 	padding: 10px;
 	font-size: 22px;
+}
+@font-face {
+	font-family: Qanelas;
+	src: url(../fonts/QanelasSoftDEMO-UltraLight.otf)
 }
 
 /*********************************************************************************/
@@ -167,7 +171,8 @@ nav {
 }
 
 #menuEsquerdo .itens-menu {
-	margin: 1em;
+	margin: 8%;
+	font-family: Qanelas;
 }
 
 /* #menu li:hover a, #menu li.active a, #menu li.active span {
@@ -251,4 +256,9 @@ nav {
 	padding: 1em 2em;
 	border-color: rgba(0, 0, 0, .8);
 	color: rgba(0, 0, 0, .8);
+}
+
+#botoes li {
+	display: inline;
+	margin: 20px;
 }
