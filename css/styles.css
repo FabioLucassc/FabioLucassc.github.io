@@ -336,7 +336,6 @@ nav {
 	background: #0e1121 no-repeat center;
 	background-size: cover;
 	text-align: center;
-	left: 0;
 }
 
 #final .container {
@@ -346,6 +345,7 @@ nav {
 
 #final a {
 	color: rgba(255, 255, 255, 1);
+	
 }
 
 /*********************************************************************************/
@@ -354,11 +354,11 @@ nav {
 
 /*********************************************************************************/
 
-#circuloDeProgresso {
+/* #circuloDeProgresso {
 	text-align: center;
 	width: auto;
-	/* display: inline; */
-}
+	display: inline;
+} */
 
 #circuloDeProgresso .porcentagem {
 
@@ -376,8 +376,8 @@ nav {
 	font-size: 40px;
 	color: #ffffff;
 	font-weight: 100;
-	display: inline;
-	float: left;
+	/* display: inline; */
+	/* float: left; */
 }
 
 #circuloDeProgresso span {
@@ -393,7 +393,19 @@ nav {
 	margin-right: 7px;
 }
 
-/* /* section button:hover {
+
+#circuloDeProgresso ul {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+
+}
+#circuloDeProgresso li {
+	padding: 5%;
+	
+}
+
+ /* section button:hover {
 
 	background-color: #ff5c5c;
-} */
+}  */
