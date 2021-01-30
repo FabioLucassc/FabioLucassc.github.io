@@ -261,9 +261,9 @@ nav {
 /*********************************************************************************/
 
 #secundario {
-	position: absolute;
-	right: 0;
-	left: 0;
+	position: relative;
+	/* right: 0;
+	left: 0; */
 	padding: 5em 0em 7em 0em;
 	background: #FFF;
 	/* align-items: center; */
@@ -275,25 +275,25 @@ nav {
 /* Coluna Meio                                                                     */
 
 /*********************************************************************************/
-
-/* #tresBox {
+/* 
+#tresBox {
 	top: 20%;
-} */
+}  */
 
 /* .boxA {
 	display: inline;
 	float: left;
 }
 
-.boxB {
+ .boxB {
 	display: inline;
-	float: left;
+	float: center;
 }
 
 .boxC {
 	display: inline;
-	float: left;
-} */
+	float: right;
+}    */
 
 /*********************************************************************************/
 
@@ -321,4 +321,29 @@ nav {
 #colunasMeio .title .byline {
 	text-align: center;
 	color: rgba(0, 0, 0, .5);
+}
+
+/*********************************************************************************/
+/* Welcome                                                                       */
+/*********************************************************************************/
+
+#final
+{
+	position: relative;
+	padding: 7em 0em 7em 0em;
+	background: #111111  no-repeat center;
+	background-size: cover;
+	text-align: center;
+}
+
+#final .container
+{
+	/* width: 1000px; */
+	/* padding: 0px 100px; */
+	color: rgba(255,255,255,0.8);
+}
+
+#final a
+{
+	color: rgba(255,255,255,1);
 }
