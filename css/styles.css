@@ -376,8 +376,7 @@ nav {
 	font-size: 40px;
 	color: #ffffff;
 	font-weight: 100;
-	/* display: inline; */
-	/* float: left; */
+
 }
 
 #circuloDeProgresso span {
@@ -395,12 +394,14 @@ nav {
 
 
 #circuloDeProgresso ul {
+
 	list-style: none;
-	display: flex;
+	display: inline-block;
 	justify-content: center;
 
 }
 #circuloDeProgresso li {
+	float: left;
 	padding: 5%;
 	
 }
