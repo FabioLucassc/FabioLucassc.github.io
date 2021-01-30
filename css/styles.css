@@ -262,7 +262,7 @@ nav {
 
 #secundario {
 	position: absolute;
-	right:0 ;
+	right: 0;
 	left: 0;
 	padding: 5em 0em 7em 0em;
 	background: #FFF;
@@ -293,28 +293,25 @@ nav {
 /* Coluna Meio                                                                     */
 
 /*********************************************************************************/
-.boxA{
-	
+
+/* #tresBox {
+	top: 20%;
+} */
+
+/* .boxA {
 	display: inline;
 	float: left;
-
-
 }
-.boxB{
+
+.boxB {
 	display: inline;
 	float: left;
-	
-	
-	
 }
-.boxC{
+
+.boxC {
 	display: inline;
 	float: left;
-	
-	
-}
-
-
+} */
 
 /*********************************************************************************/
 
