@@ -262,9 +262,11 @@ nav {
 
 #secundario {
 	position: absolute;
+	right:0 ;
+	left: 0;
 	padding: 5em 0em 7em 0em;
 	background: #FFF;
-	align-items: center;
+	/* align-items: center; */
 }
 
 /*********************************************************************************/
@@ -291,37 +293,28 @@ nav {
 /* Coluna Meio                                                                     */
 
 /*********************************************************************************/
-
-/* .boxA, .boxB, .boxC {
-	float: left;
-	padding: 1.5%;
-}
-
-.boxA .boxB .boxC {
+.boxA{
+	
 	display: inline;
 	float: left;
-	margin-right: 20px;
+
+
 }
-
-.boxC {
-	float: right;
-} */
-
-.boxA, .boxB, .boxC {
+.boxB{
 	display: inline;
-	align-items: center;
-	margin-left: auto;
-	width: 384px;
+	float: left;
+	
+	
+	
+}
+.boxC{
+	display: inline;
+	float: left;
+	
+	
 }
 
-.boxA, .boxB {
-	float: left;
-	margin-right: 20px;
-}
 
-.boxC {
-	float: left;
-}
 
 /*********************************************************************************/
 
