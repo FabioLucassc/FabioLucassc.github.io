@@ -262,19 +262,20 @@ nav {
 
 #secundario {
 	position: relative;
-	/* right: 0;
-	left: 0; */
+	right: 0;
+	left: 0;
+	width: auto;
 	padding: 5em 0em 7em 0em;
 	background: #FFF;
-	/* align-items: center; */
+	align-items: center;
 }
 
+/*********************************************************************************/
+
+/* Coluna Meio                                                                   */
 
 /*********************************************************************************/
 
-/* Coluna Meio                                                                     */
-
-/*********************************************************************************/
 /* 
 #tresBox {
 	top: 20%;
@@ -297,7 +298,7 @@ nav {
 
 /*********************************************************************************/
 
-/* Colunas Meio                                                                         */
+/* Colunas Meio                                                                  */
 
 /*********************************************************************************/
 
@@ -324,26 +325,75 @@ nav {
 }
 
 /*********************************************************************************/
-/* Welcome                                                                       */
+
+/* Final                                                                         */
+
 /*********************************************************************************/
 
-#final
-{
+#final {
 	position: relative;
 	padding: 7em 0em 7em 0em;
-	background: #111111  no-repeat center;
+	background: #0e1121 no-repeat center;
 	background-size: cover;
 	text-align: center;
+	left: 0;
 }
 
-#final .container
-{
-	/* width: 1000px; */
-	/* padding: 0px 100px; */
-	color: rgba(255,255,255,0.8);
+#final .container {
+	width: auto;
+	color: rgba(255, 255, 255, 0.8);
 }
 
-#final a
-{
-	color: rgba(255,255,255,1);
+#final a {
+	color: rgba(255, 255, 255, 1);
 }
+
+/*********************************************************************************/
+
+/* Ciruclo de Progresso                                                          */
+
+/*********************************************************************************/
+
+#circuloDeProgresso {
+	text-align: center;
+	width: auto;
+	/* display: inline; */
+}
+
+#circuloDeProgresso .porcentagem {
+
+	position: relative;
+	align-items: center;
+	/* padding: 52px; */
+}
+
+#circuloDeProgresso .porcentagem strong {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	transform: translate(-50%);
+	font-size: 40px;
+	color: #ffffff;
+	font-weight: 100;
+	display: inline;
+	float: left;
+}
+
+#circuloDeProgresso span {
+	display: block;
+	color: rgb(255, 255, 255);
+	font-size: 17px;
+	margin-top: 10px;
+}
+
+#circuloDeProgresso span i {
+	color: #ff5c5c;
+	font-size: 22px;
+	margin-right: 7px;
+}
+
+/* /* section button:hover {
+
+	background-color: #ff5c5c;
+} */

@@ -15,9 +15,15 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap" rel="stylesheet">
 
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> -->
+
     <title>Perfil - Fabio Lucas</title>
 
     <script type="text/javascript" src="js/script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.0/circle-progress.min.js"></script>
 
 </head>
 
@@ -117,8 +123,8 @@
                     </p>
                     <br>
                     <a href="#" class="botoes botoesMeio">Informação</a>
-                
-                    
+
+
                 </div>
             </div>
         </div>
@@ -135,13 +141,58 @@
                 <br><br><br>
                 <span class="byline">Resumo Aqui</span>
             </div>
-         
+
+            <div id="circuloDeProgresso"> 
+                <div class="row">
+
+                    <div class="porcentagem" data-value="0.87" data-size="200" data-thickness="12">
+                        <strong></strong>
+                        <span><i class="fa fa-html5"></i>
+                            ..
+    
+                        </span>
+    
+                    </div>
+    
+    
+                    <div class="porcentagem" data-value="0.87" data-size="200" data-thickness="12">
+                        <strong></strong>
+                        <span><i class="fa fa-css3"></i>
+                            ..
+    
+                        </span>
+    
+                    </div>
+    
+    
+                    <div class="porcentagem" data-value="0.90" data-size="200" data-thickness="12">
+                        <strong></strong>
+                        <span><i class="fa fa-jsfiddle"></i>
+                            ..
+    
+                        </span>
+    
+                    </div>
+                </div>
+    
+    
+                <button class="btn" onclick="Circlle('.porcentagem');">
+    
+                    Teste
+                </button>
+                
+            </div> 
+
             <ul class="actions">
                 <li><a href="#" class="button">Algum Botão , Ou usar esse espaço para resumo</a></li>
             </ul>
         </div>
+
+
     </div>
 
+    <script>Circlle('.porcentagem')</script>
+   
     <!--  --------------------------------------- FIM --------------------------------------- -->
 </body>
 
