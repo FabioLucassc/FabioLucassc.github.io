@@ -74,10 +74,12 @@ nav {
 /*********************************************************************************/
 
 #header-wrapper {
-	/* position: relative; */
+	position: relative;
 	padding: 5em 0em 7em 0em;
 	background: #111111 url(https://fabiolucassc.github.io/images/header-bg.jpg) no-repeat center;
 	background-size: cover;
+	min-width: 600px;
+	width: auto;
 }
 
 #header {
@@ -259,6 +261,7 @@ nav {
 	position: relative;
 	right: 0;
 	left: 0;
+	min-width: 600px;
 	width: auto;
 	padding: 5em 0em 7em 0em;
 	background: #FFF;
@@ -331,6 +334,8 @@ nav {
 	background: #0e1121 no-repeat center;
 	background-size: cover;
 	text-align: center;
+	min-width: 600px;
+	width: auto;
 }
 
 #final .container {
@@ -385,10 +390,10 @@ nav {
 }
 
 #circuloDeProgresso li {
-	float: right;
-	margin-left: 2em;
+	float: left;
+	margin-left: 5em;
 	padding: 0 0 0 1px;
-	margin-right: 0;
+	margin-top: 5em;
 }
 
 
