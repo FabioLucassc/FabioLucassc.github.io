@@ -22,3 +22,23 @@ function carrega() {
     document.getElementById('final').onmouseover = null;
 
 };
+
+// function isScrolledIntoView(elem){
+//     var docViewTop = $(window).scrollTop();
+//     var docViewBottom = docViewTop + $(window).height();
+
+//     var elemTop = $(elem).offset().top;
+//     var elemBottom = elemTop + $(elem).height();
+
+//     return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+// }
+
+// $(window).on('scroll', function(){
+//   if(isScrolledIntoView('.row')){
+//     Circlle('.porcentagem');
+    
+//   }
+//   else{
+//     $('.row').removeClass('bounceIn');
+//   }
+// });
