@@ -15,3 +15,12 @@ function Circlle(el){
 };
 
 Circlle('.porcentagem');
+
+function carrega(){
+
+    Circlle('.porcentagem');
+    document.getElementById('final').onmouseover=null;
+    
+
+
+}
