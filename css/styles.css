@@ -3,8 +3,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	/* font: inherit; */
-	/* vertical-align: baseline; */
+
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -62,7 +61,6 @@ nav {
 }
 
 .container {
-	/* overflow: hidden; */
 	margin: 0em auto;
 	width: 100%;
 }
@@ -267,32 +265,6 @@ nav {
 	background: #FFF;
 	align-items: center;
 }
-
-/*********************************************************************************/
-
-/* Coluna Meio                                                                   */
-
-/*********************************************************************************/
-
-/* 
-#tresBox {
-	top: 20%;
-}  */
-
-/* .boxA {
-	display: inline;
-	float: left;
-}
-
- .boxB {
-	display: inline;
-	float: center;
-}
-
-.boxC {
-	display: inline;
-	float: right;
-}    */
 
 /*********************************************************************************/
 
