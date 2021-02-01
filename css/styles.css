@@ -396,9 +396,56 @@ nav {
 	margin-top: 5em;
 }
 
-
-
 /* section button:hover {
 
 	background-color: #ff5c5c;
 }  */
+
+.dropbtn {
+	background-color: #3498DB;
+	color: white;
+	padding: 6px;
+	font-size: 1.5em;
+	border: none;
+	width: auto;
+}
+
+.dropbtn p {
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 15px;
+}
+
+.dropup {
+	position: fixed;
+	bottom: 3%;
+	right: 2%;
+	display: inline-block;
+}
+
+.dropup-content {
+	display: none;
+	position: absolute;
+	background-color: #f1f1f1;
+	bottom: 70px;
+	z-index: 1;
+}
+
+.dropup-content a {
+	color: black;
+	font-size: 1.5em;
+	padding: 12px 19px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropup-content a:hover {
+	background-color: #ccc
+}
+
+.dropup:hover .dropup-content {
+	display: block;
+}
+
+.dropup:hover .dropbtn {
+	background-color: #2980B9;
+}
