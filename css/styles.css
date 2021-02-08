@@ -3,7 +3,6 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -177,8 +176,16 @@ nav {
 
 /*********************************************************************************/
 
+.foto-Perfil {
+	margin: auto;
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border: 5px inset #0e1121;
+}
+
 #banner {
-	padding-top: 10em;
+	/* padding-top: 10em; */
 	text-align: center;
 }
 
@@ -216,6 +223,12 @@ nav {
 .title .byline {
 	font-size: 1.3em;
 	color: rgba(255, 255, 255, 0.60);
+}
+
+.title p {
+	font-size: 1.3em;
+	text-align: center;
+	margin: 8%;
 }
 
 /*********************************************************************************/
