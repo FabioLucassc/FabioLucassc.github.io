@@ -3,6 +3,10 @@ function mostraAlerta() {
     alert('Implementação da função em Andamento!');
 
 }
+function projectsWeb(){
+
+    window.open('https://github.com/FabioLucassc?tab=repositories&q=&type=&language=css','_blank');window.open('https://github.com/FabioLucassc?tab=repositories&q=&type=&language=html','_blank'); ; 
+}
 
 function Circlle(el) {
 
