@@ -207,6 +207,20 @@ nav {
 	font-size: 1em;
 }
 
+#banner i {
+	font-size: 2em;
+	padding: 0;
+	
+}
+
+#csharp {
+	font-size: 2em;
+	padding: 0;
+	color: #a232e2;
+	
+}
+
+
 /*********************************************************************************/
 
 /* Abaixo do do Nome                                                                        */
@@ -228,8 +242,8 @@ nav {
 
 .title p {
 	font-size: 1.3em;
-	text-align: center;
-	margin: 8%;
+	text-align: justify;
+	margin: 2% 8% 2% 8%;
 }
 
 /*********************************************************************************/
