@@ -85,6 +85,7 @@ nav {
 	text-align: center;
 }
 
+
 /*********************************************************************************/
 
 /* Nome                                                                          */
@@ -151,11 +152,14 @@ nav {
 	text-transform: uppercase;
 	font-size: 0.7em;
 	color: rgba(255, 255, 255, 0.80);
+	/* position: fixed; */
 }
 
 #menuEsquerdo ul {
 	display: flex;
 	align-items: center;
+	position: fixed;
+	z-index: 1000;
 }
 
 #menuEsquerdo .itens-menu {
