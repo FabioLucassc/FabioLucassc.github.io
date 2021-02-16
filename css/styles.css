@@ -52,7 +52,7 @@ nav {
 	font-family: 'Work Sans', sans-serif;
 	padding: 10px;
 	font-size: 22px;
-}
+	}
 
 @font-face {
 	font-family: Qanelas;
@@ -129,14 +129,16 @@ nav {
 
 #menu {
 	position: static;
-	top: 4.5em;
-	right: 4.5em;
-	margin-right: 2%;
+	top: 2em;
+	z-index: 1000;
+
 }
 
 #menu ul {
-	display: inline-block;
-	right: 10px;
+	/* display: inline-block; */
+	position: fixed;
+	right: 5%;
+
 }
 
 #menu li {
@@ -152,14 +154,15 @@ nav {
 	text-transform: uppercase;
 	font-size: 0.7em;
 	color: rgba(255, 255, 255, 0.80);
-	/* position: fixed; */
+	z-index: 1000;
 }
 
 #menuEsquerdo ul {
 	display: flex;
 	align-items: center;
-	position: fixed;
+	/* position: fixed; */
 	z-index: 1000;
+	top: 2em;
 }
 
 #menuEsquerdo .itens-menu {
@@ -169,9 +172,20 @@ nav {
 }
 
 #menu .active a {
-	border: 2px solid white;
+	border: 3px solid rgb(189, 189, 189);
 	border-radius: 6px;
 	color: white;
+	text-shadow: 1px 1px 1px #000000;
+	
+	
+}
+#menu .active a:hover{
+	border: 3px solid rgb(0, 0, 0);
+	border-radius: 6px;
+	color: rgb(14, 14, 14);
+	text-shadow: 1px 1px 1px #f7f7f7;
+	box-shadow: 0 4px 4px -2px #f00e0e;
+
 }
 
 /*********************************************************************************/
@@ -294,7 +308,8 @@ nav {
 	min-width: 600px;
 	width: auto;
 	padding: 5em 0em 7em 0em;
-	background: #FFF;
+	/* background: #FFF; */
+	background: #ffffff;
 	align-items: center;
 }
 

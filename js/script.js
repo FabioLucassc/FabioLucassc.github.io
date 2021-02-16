@@ -18,7 +18,7 @@ function Circlle(el) {
         });
 };
 
-Circlle('.porcentagem');
+// Circlle('.porcentagem');
 
 function carrega() {
 
